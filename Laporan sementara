@@ -1,0 +1,4 @@
+Pada praktikum Sistem Kontrol Cerdas minggu ke-2 tanggal 11 september 2025 mempelajari implementasi deteksi warna secara real-time. Program ini menggunaka dua mesin yaitu KNN (K-Nearest Neughbor) dan HSV thresholding.
+Setelah warna terdeteksi atau masuk frame kamera akan memberikan penjelasan (bounding box) kemudian menampilkan hasil warna yang terdeteksi.
+KNN digunakan untuk mendeteksi warna dengan jumlah warna yang banyak.
+HSV digunakan untuk mendeteksi warna dasar seperti merah, kuning, hijau, kuning dan biru yang lebih stabil terhadap perubahan pencahayaan.
